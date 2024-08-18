@@ -42,7 +42,7 @@ This repository is an attempt to collect and organize the RSS links of Nigerian 
 
 ## Applications
 
-- [Here](link_to_news_aggregator). is a simple local news aggregator using the RSS feed links here. 
+- [Here](https://github.com/dmachinewhisperer/nigerian-news-channel-aggregator/) is a simple local news aggregator using the RSS feed links here. 
 - I made a Kaggle notebook on how to run sentiment analysis on news items pulled from these feeds [here](link_to_kaggle_notebook).
 
 ## License
